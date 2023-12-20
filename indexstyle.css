@@ -1,15 +1,18 @@
-.h2 {
+.heading {
     font-size: 50px;
     font-weight: 800;
-    color: black;
+    color: white;
     font-family: monospace;
+    text-align: center;
 }
 
-.link {
-    font-size: 20px;
+.links {
+    font-size: 25px;
     font-family: monospace;
+    text-align: center;
+    padding: 24px;
 }
 
 * {
-    background-color: red;
+    background-color: black;
 }
